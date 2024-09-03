@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Morse-Code-Generator/static/css/main.3bab6611.css",
+    "main.js": "/Morse-Code-Generator/static/js/main.6b333bb6.js",
+    "index.html": "/Morse-Code-Generator/index.html",
+    "main.3bab6611.css.map": "/Morse-Code-Generator/static/css/main.3bab6611.css.map",
+    "main.6b333bb6.js.map": "/Morse-Code-Generator/static/js/main.6b333bb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bab6611.css",
+    "static/js/main.6b333bb6.js"
+  ]
+}
